@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\bin\Debug\net6.0\ActionPrint.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\bin\Debug\net6.0\ActionPrint.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\bin\Debug\net6.0\ActionPrint.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\bin\Debug\net6.0\ActionPrint.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\bin\Debug\net6.0\ActionPrint.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\refint\ActionPrint.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ActionPrint.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ActionPrint\obj\Debug\net6.0\ref\ActionPrint.dll

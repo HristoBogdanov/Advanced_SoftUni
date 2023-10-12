@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\bin\Debug\net6.0\Classwork.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\bin\Debug\net6.0\Classwork.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\bin\Debug\net6.0\Classwork.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\bin\Debug\net6.0\Classwork.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\bin\Debug\net6.0\Classwork.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\refint\Classwork.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\Classwork.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\Classwork\obj\Debug\net6.0\ref\Classwork.dll

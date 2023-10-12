@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\refint\ArithmeticOperations.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\ArithmeticOperations\obj\Debug\net6.0\ref\ArithmeticOperations.dll
