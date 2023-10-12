@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\bin\Debug\net6.0\Matrix.exe
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Matrix\obj\Debug\net6.0\ref\Matrix.dll

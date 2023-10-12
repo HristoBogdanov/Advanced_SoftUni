@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\bin\Debug\net6.0\Stacks_Queues.exe
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\bin\Debug\net6.0\Stacks_Queues.deps.json
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\bin\Debug\net6.0\Stacks_Queues.runtimeconfig.json
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\bin\Debug\net6.0\Stacks_Queues.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\bin\Debug\net6.0\Stacks_Queues.pdb
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.AssemblyInfo.cs
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\refint\Stacks_Queues.dll
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.pdb
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\Stacks_Queues.genruntimeconfig.cache
+D:\SoftUni\Advanced\Advanced-Exam\Exam_18.02\Stacks_Queues\obj\Debug\net6.0\ref\Stacks_Queues.dll
