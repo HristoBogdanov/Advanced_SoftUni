@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\bin\Debug\net6.0\KnightsOfHonor.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\refint\KnightsOfHonor.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\KnightsOfHonor.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\KnightsOfHonor\obj\Debug\net6.0\ref\KnightsOfHonor.dll

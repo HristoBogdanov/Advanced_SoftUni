@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

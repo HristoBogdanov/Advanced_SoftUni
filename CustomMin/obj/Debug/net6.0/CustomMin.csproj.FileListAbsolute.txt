@@ -1,0 +1,15 @@
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\bin\Debug\net6.0\CustomMin.exe
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\bin\Debug\net6.0\CustomMin.deps.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\bin\Debug\net6.0\CustomMin.runtimeconfig.json
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\bin\Debug\net6.0\CustomMin.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\bin\Debug\net6.0\CustomMin.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.AssemblyInfo.cs
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\refint\CustomMin.dll
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.pdb
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\CustomMin.genruntimeconfig.cache
+D:\SoftUni\Advanced\Functions\FunctinalProgramming\CustomMin\obj\Debug\net6.0\ref\CustomMin.dll
