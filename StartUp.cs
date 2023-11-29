@@ -1,10 +1,13 @@
-﻿namespace RobotFactory
+﻿namespace RobotService
 {
+    using RobotService.Core;
+    using RobotService.Core.Contracts;
     public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            
+            IEngine engine = new Engine();
+            engine.Run();
         }
     }
 }
