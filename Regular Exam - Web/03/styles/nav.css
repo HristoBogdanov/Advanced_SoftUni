@@ -1,0 +1,42 @@
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    padding-left: 3em;
+}
+.main-nav ul{
+    display: flex;
+    width: 100%;
+}
+
+.main-nav li{
+    list-style-type: none;
+    padding: 0.5em 1em;
+}
+
+.main-nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.side-menu{
+    display: flex;
+    padding-right: 10em;
+    gap: 1em;
+    align-items: center;
+}
+
+.action-button:last-child{
+    background-color: #ADE2DF;
+}
+
+.action-button{
+    padding: 0.5em;
+    width: 8em;
+    height: auto;
+    border-radius: 0.2em;
+}
+
+.action-button a{
+    padding-left: 2em;
+    color:black;
+}
