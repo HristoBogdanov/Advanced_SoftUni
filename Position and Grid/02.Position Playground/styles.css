@@ -1,0 +1,73 @@
+body{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.viewport{
+    width: 100%;
+    height: 50vh;
+    position: relative;
+}
+
+.card{
+    padding: 2em;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.landscape{
+    position: relative;
+    height: 20em;
+    width: auto;
+    border-radius: 1.5em;
+    box-shadow: 9px 12px 29px 7px rgba(0,0,0,0.52);
+    opacity: 0.6;
+    z-index: 2;
+}
+
+.card .landscape:hover{
+    opacity: 1;
+    transition: 0.3 ease-in;
+    transform: scale(1.1);
+}
+
+.first-card{
+    background: rgb(2,0,36);
+    background: linear-gradient(228deg, rgba(2,0,36,1) 0%, rgba(9,121,35,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.second-card{
+    background: rgb(2,0,36);
+    background: linear-gradient(228deg, rgba(2,0,36,1) 0%, rgba(121,9,54,1) 35%, rgba(255,188,0,1) 100%);
+}
+.icons{
+    display: block;
+    height: 2em;
+    width: auto;
+    z-index: 5;
+}
+
+.landscape-container{
+    position: relative;
+}
+.icon-container{
+    padding: 1em;
+    position: absolute;
+    height: auto;
+    bottom: 0;
+    right: 0em;
+    z-index: 6;
+}
+
+.icons:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+    padding: 4em;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 8em 1fr;
+    grid-template-areas: 
+        "header header"
+        "main aside";
+}
+
+.title{
+    font: 2em/1.5 "Helvetica Neue",Helvetica,Arial;
+    font-weight: bolder;
+    text-transform: uppercase;
+    display: block;
+}
+
+.title::after{
+    content: "";
+    display: block;
+    height: 1px;
+    border-bottom: 2px solid black;
+}
+
+header{
+    grid-area: header;
+}
+
+main{
+    grid-area: main;
+}
+
+aside{
+    grid-area: aside;
+    padding-left: 3em;
+}
+
+aside ul{
+    list-style-type: disc;
+    padding-left: 2em;
+}
+
+aside li{
+    padding: 0.3em;
+    padding-bottom: 0.5em;
+}
+
+aside h3{
+    font-size: 1.5em;
+    padding: 0.3em 0;
+}
+
+
+.main-nav{
+    padding-left: 5em;
+    position: absolute;
+    top: 4em;
+    right: 4em;
+}
+
+.main-nav ul {
+    display: flex;
+    align-items: center;
+    justify-items: right;
+}
+
+.main-nav li{
+    padding: 0.8em;
+    list-style: none;
+}
+
+.main-nav li:hover{
+    background-color: rgb(152, 236, 152);
+    border-radius: 0.3em;
+}
+
+.main-nav a{
+    text-decoration: none;
+}
+
+
+.img-container{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.25);
+    padding: 0.5em;
+    float: right;
+    border: 2px solid black;
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+.image-two-container{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.25);
+    padding: 0.5em;
+    float: left;
+    border: 2px solid black;
+    margin-right: 2em;
+    margin-bottom: 1em;
+}
+
+.blockquote-container{
+    float: right;
+    width: 50%;
+    padding: 2em;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    border-left: 2px solid rgba(0, 0, 0, 0.25);
+}
+
+blockquote{
+    opacity: 0.5;
+}
+
+.author-name{
+    opacity: 0.5;
+    padding-top: 1em;
+    font-size: 1.2em;
+    text-align: right;
+}
+
+.icon-section{
+    display: flex;
+    gap: 0.5em;
+    padding-top: 2em;
+}
+
+.icon-container{
+    flex: 0 0 2em;
+    background-color: rgb(202, 199, 199);
+    border-radius: 50%;
+    padding: 0.5em;
+}
+
+.icon-container:hover{
+    background-color:white;
+}
+
+svg{
+    width: 100%;
+    height: auto;
+}
+
+img{
+    height: 100%;
+    width: auto;
+}
+
+a{
+    color: rgb(0, 102, 0);
+}
+
+blockquote{
+    font-family: Georgia, serif;
+}
+
+h1{
+    font: 1.5em/1.2 Georgia, serif;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+p{
+    padding-bottom: 1em;
+}
